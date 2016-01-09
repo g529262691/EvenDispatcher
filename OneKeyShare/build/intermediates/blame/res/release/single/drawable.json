@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\skyblue_platform_list_item_selected.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\drawable\\skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\ssdk_recomm_def_app_image.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\exploded-aar\\EvenDispatcher\\ShareSDK-Lib\\unspecified\\res\\drawable\\ssdk_recomm_def_app_image.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\ssdk_recomm_friends_share_msg.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\exploded-aar\\EvenDispatcher\\ShareSDK-Lib\\unspecified\\res\\drawable\\ssdk_recomm_friends_share_msg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\ssdk_recomm_def_app_image.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\exploded-aar\\GreenTreeHotel\\ShareSDK-Lib\\unspecified\\res\\drawable\\ssdk_recomm_def_app_image.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\skyblue_platform_list_item_selected.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\drawable\\skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\classic_platform_corners_bg.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\drawable\\classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\ssdk_recomm_friends_share_msg.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\exploded-aar\\GreenTreeHotel\\ShareSDK-Lib\\unspecified\\res\\drawable\\ssdk_recomm_friends_share_msg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\skyblue_platform_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\drawable\\skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\classic_platform_corners_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\drawable\\classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\skyblue_platform_list_item.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\drawable\\skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\skyblue_platform_list_selector.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\drawable\\skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\build\\intermediates\\res\\merged\\release\\drawable\\skyblue_platform_list_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\OneKeyShare\\src\\main\\res\\drawable\\skyblue_platform_list_selector.xml"
+    }
+]

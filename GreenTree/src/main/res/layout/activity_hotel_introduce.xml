@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/rg_hotel_detail"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/color_green"
+        android:padding="10dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_rooms"
+            style="@style/RadioButtonStyle"
+            android:checked="true"
+            android:text="@string/hotel_message_radio_room"/>
+
+        <RadioButton
+            android:id="@+id/rb_desc"
+            style="@style/RadioButtonStyle"
+            android:text="@string/hotel_message_radio_detail"/>
+
+        <RadioButton
+            android:id="@+id/rb_topic"
+            style="@style/RadioButtonStyle"
+            android:text="@string/hotel_message_radio_topic"/>
+
+    </RadioGroup>
+
+    <FrameLayout
+        android:id="@+id/fl_message"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

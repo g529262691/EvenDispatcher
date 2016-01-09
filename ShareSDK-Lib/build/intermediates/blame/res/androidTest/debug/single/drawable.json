@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\ShareSDK-Lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_recomm_def_app_image.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\ShareSDK-Lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ssdk_recomm_def_app_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\ShareSDK-Lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_recomm_def_app_image.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\ShareSDK-Lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ssdk_recomm_def_app_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\GreenTreeHotel\\ShareSDK-Lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_recomm_friends_share_msg.xml",
+        "source": "D:\\AndroidStudioProjects\\GreenTreeHotel\\ShareSDK-Lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ssdk_recomm_friends_share_msg.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\ShareSDK-Lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_recomm_friends_share_msg.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\ShareSDK-Lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ssdk_recomm_friends_share_msg.xml"
+    }
+]

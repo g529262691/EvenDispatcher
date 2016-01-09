@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:hotel="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@drawable/selector_ll_background"
+        android:orientation="vertical">
+
+
+        <com.jerry.greentree.view.HotelSelectItemView
+            android:id="@+id/item_city"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            hotel:hotel_icon="@drawable/img_city"
+            hotel:hotel_title="@string/city"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_gray"/>
+
+
+        <com.jerry.greentree.view.HotelSelectItemView
+            android:id="@+id/item_keyword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            hotel:hotel_icon="@drawable/img_key_words"
+            hotel:hotel_title="@string/key"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_gray"/>
+
+
+        <com.jerry.greentree.view.HotelSelectItemView
+            android:id="@+id/item_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            hotel:hotel_icon="@drawable/imag_time"
+            hotel:hotel_title="@string/time"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/color_gray"/>
+
+
+        <com.jerry.greentree.view.HotelSelectItemView
+            android:id="@+id/item_days"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            hotel:hotel_icon="@drawable/img_days"
+            hotel:hotel_title="@string/day"/>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:id="@+id/btn_hotel_select"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:text="@string/select"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:background="@color/color_green"
+            android:drawableLeft="@drawable/search_bar_icon_normal"/>
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:text="@string/near_select"
+            android:layout_marginLeft="40dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:background="@color/color_green"
+            android:drawableLeft="@drawable/nearby"/>
+
+    </LinearLayout>
+
+</LinearLayout>

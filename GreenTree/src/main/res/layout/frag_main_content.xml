@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/color_green"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <RadioButton
+            android:id="@+id/rb_hotel_select"
+            android:checked="true"
+            android:text="@string/hotelselet"
+            style="@style/RadioButtonStyle"/>
+
+        <RadioButton
+            android:id="@+id/rb_hotel_collect"
+            android:text="@string/hotelcollect"
+            style="@style/RadioButtonStyle"/>
+
+
+    </RadioGroup>
+
+    <FrameLayout
+        android:id="@+id/fl_main_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="10dp"/>
+
+</LinearLayout>

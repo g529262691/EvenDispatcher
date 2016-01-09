@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_inc_image_layout.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\layout\\skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\layout\\skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_at_layout.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\layout\\skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\layout\\skyblue_editpage.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list_item.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\layout\\skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_actionbar.xml",
+        "source": "E:\\studioPro\\EvenDispatcher\\OneKeyShare\\src\\main\\res\\layout\\skyblue_share_actionbar.xml"
+    }
+]

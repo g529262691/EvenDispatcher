@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--head-->
+    <include layout="@layout/activity_hotel_datail_head"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!--viewpager酒店图片-->
+            <include layout="@layout/activity_hotel_datail_banners"/>
+
+            <!--酒店基本介绍-->
+            <include layout="@layout/activity_hotel_dec"/>
+
+            <!--酒店详细内容-->
+            <include layout="@layout/activity_hotel_introduce"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
